@@ -1,0 +1,5 @@
+{
+  "name": "Image to Video Weaver",
+  "description": "An application that takes a user-uploaded image and a text prompt to generate a unique 7-second video using the Gemini API.",
+  "requestFramePermissions": []
+}
